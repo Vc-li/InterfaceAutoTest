@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","548","ID:4--添加一个用户, 添加成功","testcases","Sun Mar 02 02:43:09 CST 2025","passed","Sun Mar 02 02:43:10 CST 2025","TestRunner","test_runner","",""
+"","63","ID:6--图片上传成功","testcases","Sun Mar 02 02:43:10 CST 2025","passed","Sun Mar 02 02:43:10 CST 2025","TestRunner","test_runner","",""
+"","118","ID:5--修改用户状态, 修改成功","testcases","Sun Mar 02 02:43:10 CST 2025","passed","Sun Mar 02 02:43:10 CST 2025","TestRunner","test_runner","",""
+"","806","ID:1--管理员登录成功","testcases","Sun Mar 02 02:43:08 CST 2025","passed","Sun Mar 02 02:43:09 CST 2025","TestRunner","test_runner","",""
+"","13","ID:2--未登录状态, 查询用户列表失败","testcases","Sun Mar 02 02:43:09 CST 2025","passed","Sun Mar 02 02:43:09 CST 2025","TestRunner","test_runner","",""
+"","67","ID:3--查询用户数据列表成功","testcases","Sun Mar 02 02:43:09 CST 2025","passed","Sun Mar 02 02:43:09 CST 2025","TestRunner","test_runner","",""
