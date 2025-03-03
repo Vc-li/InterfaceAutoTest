@@ -1,3 +1,5 @@
+import logging
+
 import allure
 
 from config.config import URL
@@ -25,4 +27,5 @@ def analyse_case(case):
         "json": json,
         "files": files,
     }
+    logging.info(f"解析请求数据，解析结果：{request_data}")
     return request_data

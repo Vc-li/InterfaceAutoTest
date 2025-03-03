@@ -1,0 +1,4 @@
+INFO     root:test_runner.py:22 用例ID:5  模块:用户管理  场景:修改成功  标题:修改用户状态, 修改成功
+INFO     root:analyse_case.py:30 解析请求数据，解析结果：{'method': 'put', 'url': 'http://192.168.64.3:8888/api/private/v1/users/521/state/true', 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE3NDA5Nzg0NDQsImV4cCI6MTc0MTA2NDg0NH0.oOe0ZONf4uPAZ7Gs2JlUMyrnl5Z6kd6KTanmFu_TE1E'}, 'params': None, 'data': None, 'json': None, 'files': None}
+INFO     root:send_requests.py:15 发起http请求 请求结果：{"data":{"id":521,"rid":-1,"username":"jay","mobile":null,"email":null,"mg_state":1},"meta":{"msg":"设置状态成功","status":200}}
+INFO     root:asserts.py:14 HTTP响应断言  预期结果(设置状态成功) == 实际结果(设置状态成功)

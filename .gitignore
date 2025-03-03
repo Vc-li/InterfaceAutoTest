@@ -2,3 +2,9 @@
 .idea/
 # 忽略所有 .iml 文件（可选）
 *.iml
+# 忽略log 和 allure生成的测试报告路径
+.log/
+.report/
+
+# 忽略打开的excel缓存文件
+~$*.xlsx
