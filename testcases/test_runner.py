@@ -1,4 +1,3 @@
-import logging
 import pytest as pytest
 from jinja2 import Template
 
