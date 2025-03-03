@@ -1,5 +1,4 @@
-import jinja2
-import jsonpath as jsonpath
+import logging
 import pytest as pytest
 from jinja2 import Template
 
