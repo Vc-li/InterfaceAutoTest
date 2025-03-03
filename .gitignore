@@ -1,0 +1,4 @@
+# 忽略 PyCharm 的 .idea 文件夹
+.idea/
+# 忽略所有 .iml 文件（可选）
+*.iml
